@@ -22,4 +22,6 @@ My current tech stack is:
 > Dart<br/>
 > Flutter, Ionic<br/>
 
-> Lua, Git, Docker, Figma, 
+> Lua, Git, Docker, Figma, Linux, Windows
+
+[My Portfolio](https://dvqm-portfolio.vercel.app)
