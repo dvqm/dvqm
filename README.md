@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**dvqm/dvqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current tech stack is:
 
-Here are some ideas to get you started:
+> HTML CSS, SCSS<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> JavaScript, TypeScript<br/>
+> React, Next.js, Redux<br/>
+> Angular, NgRx, RxJS<br/>
+> Jest<br/>
+> Bootstrap, TailwindCSS, MaterialUI<br/>
+
+
+> PHP, Go<br/> 
+> WordPress, jQuery, WooCommerce, FluentCRM<br/>
+> Chi<br/>
+
+> SQL<br/>
+> MySQL, PostgreSQL, SQLite<br/>
+> MongoDB, Firebase<br/>
+
+> Dart<br/>
+> Flutter, Ionic<br/>
+
+> Lua, Git, Docker, Figma, 
