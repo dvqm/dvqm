@@ -10,6 +10,8 @@ My current tech stack is:
 > Jest<br/>
 > Bootstrap, TailwindCSS, MaterialUI<br/>
 
+> Dart<br/>
+> Flutter, Ionic<br/>
 
 > PHP, Go<br/> 
 > WordPress, jQuery, WooCommerce, FluentCRM<br/>
@@ -18,9 +20,6 @@ My current tech stack is:
 > SQL<br/>
 > MySQL, PostgreSQL, SQLite<br/>
 > MongoDB, Firebase<br/>
-
-> Dart<br/>
-> Flutter, Ionic<br/>
 
 > Lua, Git, Docker, Figma, Linux, Windows
 
