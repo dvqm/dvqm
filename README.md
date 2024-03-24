@@ -13,9 +13,9 @@ My current tech stack is:
 > Dart<br/>
 > Flutter, Ionic<br/>
 
-> PHP, Go<br/> 
-> WordPress, jQuery, WooCommerce, FluentCRM<br/>
-> Chi<br/>
+> Node.js, Express, Nest<br/>
+> PHP, WordPress, jQuery, WooCommerce, FluentCRM<br/>
+> Go, Chi<br/>
 
 > SQL<br/>
 > MySQL, PostgreSQL, SQLite<br/>
