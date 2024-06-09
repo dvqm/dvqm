@@ -1,14 +1,15 @@
-### Hi there 👋
-
-Focused on:
+### Focused on:
 > <b>Angular</b>, TypeScript<br/>
 > <b>Flutter</b>, Dart<br/>
+
 > <b>Go</b>, HTMX<br/>
 > <b>Laravel</b>, PHP<br/>
+
 > MongoDB, PostgreSQL, SQLite<br/>
+
 > Docker<br/>
 
-Working with:
+### Working with:
 > HTML CSS, SCSS/SASS<br/>
 > React, Next.js, JavaScript<br/>
 > Jest, Jasmine<br/>
