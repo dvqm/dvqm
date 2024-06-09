@@ -3,7 +3,6 @@
 > <b>Flutter</b>, Dart<br/>
 
 > <b>Go</b>, HTMX<br/>
-> <b>Laravel</b>, PHP<br/>
 
 > MongoDB, PostgreSQL, SQLite<br/>
 
