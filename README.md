@@ -1,26 +1,24 @@
 ### Hi there 👋
 
-My current tech stack is:
+Focused on:
+> <b>Angular</b>, TypeScript<br/>
+> <b>Flutter</b>, Dart<br/>
+> <b>Go</b>, HTMX<br/>
+> <b>Laravel</b>, PHP<br/>
+> MongoDB, PostgreSQL, SQLite<br/>
+> Docker<br/>
 
-> HTML CSS, SCSS<br/>
+Working with:
+> HTML CSS, SCSS/SASS<br/>
+> React, Next.js, JavaScript<br/>
+> Jest, Jasmine<br/>
+> Bootstrap, TailwindCSS, MUI, Angular Material<br/>
 
-> JavaScript, TypeScript<br/>
-> React, Next.js, Redux<br/>
-> Angular, NgRx, RxJS<br/>
-> Jest<br/>
-> Bootstrap, TailwindCSS, MaterialUI<br/>
+> Node.js, Express<br/>
+> PHP, WordPress, jQuery<br/>
 
-> Dart<br/>
-> Flutter, Ionic<br/>
+> MySQL, Firebase<br/>
 
-> Node.js, Express, Nest<br/>
-> PHP, WordPress, jQuery, WooCommerce, FluentCRM<br/>
-> Go, Chi<br/>
-
-> SQL<br/>
-> MySQL, PostgreSQL, SQLite<br/>
-> MongoDB, Firebase<br/>
-
-> Lua, Git, Docker, Figma, Linux, Windows
+> Lua, Git, Figma, Linux, Windows
 
 [My Portfolio](https://dvqm-portfolio.vercel.app)
