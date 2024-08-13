@@ -1,7 +1,6 @@
 ### Focused on:
 > <b>Angular</b>, TypeScript<br/>
 > <b>Flutter</b>, Dart<br/>
-
 > <b>Go</b>, HTMX<br/>
 
 > MongoDB, PostgreSQL, SQLite<br/>
@@ -9,7 +8,7 @@
 > Docker<br/>
 
 ### Working with:
-> HTML CSS, SCSS/SASS<br/>
+> HTML/WCAG, CSS/SCSS/SASS<br/>
 > React, Next.js, JavaScript<br/>
 > Jest, Jasmine<br/>
 > Bootstrap, TailwindCSS, MUI, Angular Material<br/>
@@ -19,6 +18,7 @@
 
 > MySQL, Firebase<br/>
 
-> Lua, Git, Figma, Linux, Windows
+> Git, Lua, Bash, Linux, Windows<br/>
+> Figma
 
 [My Portfolio](https://dvqm-portfolio.vercel.app)
