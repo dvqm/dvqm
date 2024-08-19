@@ -1,7 +1,7 @@
 ### Focused on:
 > <b>Angular</b>, TypeScript<br/>
 > <b>Flutter</b>, Dart<br/>
-> <b>Go</b>, HTMX<br/>
+> <b>Gin</b>, Go, HTMX<br/>
 
 > MongoDB, PostgreSQL, SQLite<br/>
 
