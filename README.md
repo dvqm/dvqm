@@ -1,16 +1,22 @@
-## Hi there 👋
+### Focused on:
+> <b>Angular</b>, TypeScript<br/>
+> <b>Flutter</b>, Dart<br/>
+> <b>Gin</b>, Go, HTMX<br/>
 
-<!--
-**dvqm/dvqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> MongoDB, PostgreSQL, SQLite<br/>
 
-Here are some ideas to get you started:
+> Docker<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working with:
+> HTML/WCAG, CSS/SCSS/SASS<br/>
+> React, Next.js, JavaScript<br/>
+> Jest, Jasmine<br/>
+> Bootstrap, TailwindCSS, MUI, Angular Material<br/>
+
+> Node.js, Express<br/>
+> PHP, WordPress, jQuery<br/>
+
+> MySQL, Firebase<br/>
+
+> Git, Lua, Bash, Linux, Windows<br/>
+> Figma
