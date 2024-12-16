@@ -13,8 +13,8 @@
 > Jest, Jasmine<br/>
 > Bootstrap, TailwindCSS, MUI, Angular Material<br/>
 
+> PHP, Laravel, WordPress, jQuery<br/>
 > Node.js, Express<br/>
-> PHP, WordPress, jQuery<br/>
 
 > MySQL, Firebase<br/>
 
