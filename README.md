@@ -2,9 +2,8 @@
 > <b>Angular</b>, TypeScript<br/>
 > <b>Flutter</b>, Dart<br/>
 > <b>Gin</b>, Go, HTMX<br/>
-> <b>Laravel</b>, PHP<br/>
 
-> MongoDB, PostgreSQL, SQLite<br/>
+> PostgreSQL, SQLite<br/>
 
 > Docker<br/>
 
@@ -14,10 +13,11 @@
 > Jest, Jasmine<br/>
 > Bootstrap, TailwindCSS, MUI, Angular Material<br/>
 
-> WordPress, MySQL, jQuery<br/>
+
+> Laravel, WordPress, PHP, jQuery<br/>
 > Node.js, Express<br/>
 
-> MySQL, Firebase<br/>
+> MySQL, MongoDB, Firebase<br/>
 
 > Git, Lua, Bash, Linux, Windows<br/>
 > Figma
