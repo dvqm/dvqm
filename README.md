@@ -1,3 +1,4 @@
+**Shopifolk**
 ### Focused on:
 > <b>Angular</b>, TypeScript<br/>
 > <b>Flutter</b>, Dart<br/>
@@ -9,7 +10,7 @@
 
 ### Working with:
 > HTML/WCAG, CSS/SCSS/SASS<br/>
-> React, Next.js, JavaScript<br/>
+> React, Remix, Next.js, JavaScript<br/>
 > Jest, Jasmine<br/>
 > Bootstrap, TailwindCSS, MUI, Angular Material<br/>
 > HTMX<br/>
