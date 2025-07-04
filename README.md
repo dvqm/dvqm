@@ -1,24 +1,15 @@
 **Shopifolk**
-### Focused on:
-> <b>Go</b><br/>
-> PostgreSQL, SQLite<br/>
 
-> Docker<br/>
+### Focused on
+Backend with <b>Go</b><br/>
 
-### Working with:
-> HTML/WCAG, CSS/SCSS/SASS<br/>
-> <b>Angular</b>, TypeScript<br/>
-> React, Remix, Next.js, JavaScript<br/>
-> <b>Flutter</b>, Dart<br/>
-> Jest, Jasmine<br/>
-> Bootstrap, TailwindCSS, MUI, Angular Material<br/>
-> HTMX<br/>
+### Used when needed
+> <b>Angular</b><br/>
+> <b>React/Next.js</b><br/>
+> <b>Flutter</b><br/>
+> <b>WordPress</b><br/>
 
-> Laravel, WordPress, PHP, jQuery<br/>
-> Node.js, Express<br/>
+### Exploring
+> <b>MR/XR</b> as a platform for building productivity applications<br/>
 
-> MySQL, MongoDB<br/>
-> AWS, Firebase<br/>
-
-> Git, Lua, Bash, Linux, Windows<br/>
-> Figma
+> nvim geek
