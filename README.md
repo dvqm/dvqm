@@ -10,6 +10,6 @@ Backend with <b>Go</b><br/>
 > <b>WordPress</b><br/>
 
 ### Exploring
-> <b>MR/XR</b> as a platform for building productivity applications<br/>
+> <b>MR/XR</b>
 
 > nvim geek
