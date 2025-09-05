@@ -1,7 +1,9 @@
 **Shopifolk**
 
 ### Focused on
-Backend with <b>Go</b><br/>
+<b>Shopify</b><br/>
+<br/>
+<b>Go</b><br/>
 
 ### Used when needed
 > <b>Angular</b><br/>
